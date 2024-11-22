@@ -1,0 +1,4 @@
+virtualenv
+Flask
+pillow==10.2.0
+Flask-SocketIO==5.3.6
